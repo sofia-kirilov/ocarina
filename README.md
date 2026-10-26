@@ -1,3 +1,6 @@
+<img width="579" height="504" alt="Screenshot 2026-10-25 at 7 47 15 PM" src="https://github.com/user-attachments/assets/f3996a85-53e9-4207-bd3c-ce6f0e4add26" />
+<img width="543" height="455" alt="Screenshot 2026-10-25 at 7 46 20 PM" src="https://github.com/user-attachments/assets/1a0ef9e6-7caa-4549-98e7-1a087cac85dd" />
+<img width="693" height="554" alt="Screenshot 2026-10-25 at 7 45 40 PM" src="https://github.com/user-attachments/assets/e84c3fbb-0555-40c0-a0fa-968bb939b706" />
 A 4-hole soprano ocarina in C major, designed from the Helmholtz resonator equation so each note's pitch is predicted from the geometry before printing.
 
 Status: designed, not yet printed or tested.
